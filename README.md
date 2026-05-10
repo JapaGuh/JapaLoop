@@ -1,4 +1,4 @@
-# AllClickingMacro
+# All Clicking Macro
 
 A Python application featuring a modern, responsive user interface built with Flet, featuring integrated icon support and multi-threaded execution.
 
