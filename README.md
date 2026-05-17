@@ -1,10 +1,10 @@
-# All Clicking Macro
+# JapaLoop
 
 A Python application featuring a modern, responsive user interface built with Flet, featuring integrated icon support and multi-threaded execution.
 
 ## Project Contents
 
-This repository contains the core files for AllClickingMacro:
+This repository contains the core files for JapaLoop:
 
 *   **Python Source Code** - The main application logic written in Python using the Flet framework.
 *   **Asset Folder** - Custom fonts (Montserrat) and branding assets used to enhance the UI.
@@ -12,7 +12,7 @@ This repository contains the core files for AllClickingMacro:
 
 ## About This Project
 
-AllClickingMacro has been instrumental in my learning journey as a developer. Through building this project, I gained valuable experience in:
+JapaLoop has been instrumental in my learning journey as a developer. Through building this project, I gained valuable experience in:
 
 *   **Python Programming** - Mastering logic, loops, and external library integration.
 *   **Asynchronous Execution** - Implementing `threading` to keep the UI responsive during macro execution.
@@ -30,4 +30,4 @@ This project represents an important step in my programming education and demons
 
   ---
 
-**Last updated:** 2026-05-10
+**Last updated:** 2026-05-17
